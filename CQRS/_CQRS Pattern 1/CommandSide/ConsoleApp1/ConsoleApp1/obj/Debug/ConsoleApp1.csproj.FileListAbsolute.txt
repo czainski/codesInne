@@ -1,0 +1,28 @@
+C:\CQRS-simple\CommandSideA\CommandSideB\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\CQRS-simple\CommandSideA\CommandSideB\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\CQRS-simple\CommandSideA\CommandSideB\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\CQRS-simple\CommandSideA\CommandSideB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\CQRS-simple\CommandSideA\CommandSideB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\CQRS-simple\CommandSideA\CommandSideB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\CQRS-simple\CommandSideA\CommandSideB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\_CQRS-snipet\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\_CQRS-snipet\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\_CQRS-snipet\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\_CQRS-snipet\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\_CQRS-snipet\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\_CQRS-snipet\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\_CQRS-snipet\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\WarsztatLaptop\_CQRS Pattern\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\WarsztatLaptop\_CQRS Pattern\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\WarsztatLaptop\_CQRS Pattern\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\WarsztatLaptop\_CQRS Pattern\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\WarsztatLaptop\_CQRS Pattern\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WarsztatLaptop\_CQRS Pattern\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\WarsztatLaptop\_CQRS Pattern\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\WarsztatLaptop\_CQRS Pattern 1\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\WarsztatLaptop\_CQRS Pattern 1\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WarsztatLaptop\_CQRS Pattern 1\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\WarsztatLaptop\_CQRS Pattern 1\CommandSide\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\WarsztatLaptop\_CQRS Pattern 1\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\WarsztatLaptop\_CQRS Pattern 1\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\WarsztatLaptop\_CQRS Pattern 1\CommandSide\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+C:\Skwark\12\Klasy\bin\Debug\Klasy.exe.config
+C:\Skwark\12\Klasy\bin\Debug\Klasy.exe
+C:\Skwark\12\Klasy\bin\Debug\Klasy.pdb
+C:\Skwark\12\Klasy\obj\Debug\Klasy.csprojAssemblyReference.cache
+C:\Skwark\12\Klasy\obj\Debug\Klasy.csproj.CoreCompileInputs.cache
+C:\Skwark\12\Klasy\obj\Debug\Klasy.exe
+C:\Skwark\12\Klasy\obj\Debug\Klasy.pdb

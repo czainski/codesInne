@@ -1,0 +1,5 @@
+a) Zaprogramowaæ  tablicê 6 elementow¹  typu decimal 
+b) Nadaæ wartoœci wszystkim elementom tablicy
+c) Przy pomocy instrukci for wyœwietliæ zawartoœæ tablicy 
+
+

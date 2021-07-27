@@ -1,0 +1,7 @@
+C:\Skwark\9\Tablica\Tablica\bin\Debug\Tablica.exe.config
+C:\Skwark\9\Tablica\Tablica\bin\Debug\Tablica.exe
+C:\Skwark\9\Tablica\Tablica\bin\Debug\Tablica.pdb
+C:\Skwark\9\Tablica\Tablica\obj\Debug\Tablica.csprojAssemblyReference.cache
+C:\Skwark\9\Tablica\Tablica\obj\Debug\Tablica.csproj.CoreCompileInputs.cache
+C:\Skwark\9\Tablica\Tablica\obj\Debug\Tablica.exe
+C:\Skwark\9\Tablica\Tablica\obj\Debug\Tablica.pdb

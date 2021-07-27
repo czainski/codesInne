@@ -1,0 +1,11 @@
+C:\Skwark\7\Ulepszony Kalkulator walut\bin\Debug\Ulepszony Kalkulator walut.exe.config
+C:\Skwark\7\Ulepszony Kalkulator walut\bin\Debug\Ulepszony Kalkulator walut.exe
+C:\Skwark\7\Ulepszony Kalkulator walut\bin\Debug\Ulepszony Kalkulator walut.pdb
+C:\Skwark\7\Ulepszony Kalkulator walut\obj\Debug\Ulepszony Kalkulator walut.csprojAssemblyReference.cache
+C:\Skwark\7\Ulepszony Kalkulator walut\obj\Debug\Ulepszony Kalkulator walut.csproj.CoreCompileInputs.cache
+C:\Skwark\7\Ulepszony Kalkulator walut\obj\Debug\Ulepszony Kalkulator walut.exe
+C:\Skwark\7\Ulepszony Kalkulator walut\obj\Debug\Ulepszony Kalkulator walut.pdb
+C:\Skwark\7\Ulepszony Kalkulator walut\bin\Debug\Ulepszony Kalkulator walut.exe.manifest
+C:\Skwark\7\Ulepszony Kalkulator walut\bin\Debug\Ulepszony Kalkulator walut.application
+C:\Skwark\7\Ulepszony Kalkulator walut\obj\Debug\Ulepszony Kalkulator walut.exe.manifest
+C:\Skwark\7\Ulepszony Kalkulator walut\obj\Debug\Ulepszony Kalkulator walut.application

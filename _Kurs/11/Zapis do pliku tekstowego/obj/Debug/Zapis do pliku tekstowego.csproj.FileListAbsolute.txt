@@ -1,0 +1,7 @@
+C:\Skwark\11\Zapis do pliku tekstowego\bin\Debug\Zapis do pliku tekstowego.exe.config
+C:\Skwark\11\Zapis do pliku tekstowego\bin\Debug\Zapis do pliku tekstowego.exe
+C:\Skwark\11\Zapis do pliku tekstowego\bin\Debug\Zapis do pliku tekstowego.pdb
+C:\Skwark\11\Zapis do pliku tekstowego\obj\Debug\Zapis do pliku tekstowego.csprojAssemblyReference.cache
+C:\Skwark\11\Zapis do pliku tekstowego\obj\Debug\Zapis do pliku tekstowego.csproj.CoreCompileInputs.cache
+C:\Skwark\11\Zapis do pliku tekstowego\obj\Debug\Zapis do pliku tekstowego.exe
+C:\Skwark\11\Zapis do pliku tekstowego\obj\Debug\Zapis do pliku tekstowego.pdb

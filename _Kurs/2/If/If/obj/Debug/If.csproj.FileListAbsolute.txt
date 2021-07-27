@@ -1,0 +1,7 @@
+C:\Skwark\2\If\If\bin\Debug\If.exe.config
+C:\Skwark\2\If\If\bin\Debug\If.exe
+C:\Skwark\2\If\If\bin\Debug\If.pdb
+C:\Skwark\2\If\If\obj\Debug\If.csprojAssemblyReference.cache
+C:\Skwark\2\If\If\obj\Debug\If.csproj.CoreCompileInputs.cache
+C:\Skwark\2\If\If\obj\Debug\If.exe
+C:\Skwark\2\If\If\obj\Debug\If.pdb

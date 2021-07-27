@@ -1,0 +1,7 @@
+C:\Skwark\3\Kalkulator 4\Kalkulator 4\bin\Debug\Kalkulator 4.exe.config
+C:\Skwark\3\Kalkulator 4\Kalkulator 4\bin\Debug\Kalkulator 4.exe
+C:\Skwark\3\Kalkulator 4\Kalkulator 4\bin\Debug\Kalkulator 4.pdb
+C:\Skwark\3\Kalkulator 4\Kalkulator 4\obj\Debug\Kalkulator 4.csprojAssemblyReference.cache
+C:\Skwark\3\Kalkulator 4\Kalkulator 4\obj\Debug\Kalkulator 4.csproj.CoreCompileInputs.cache
+C:\Skwark\3\Kalkulator 4\Kalkulator 4\obj\Debug\Kalkulator 4.exe
+C:\Skwark\3\Kalkulator 4\Kalkulator 4\obj\Debug\Kalkulator 4.pdb

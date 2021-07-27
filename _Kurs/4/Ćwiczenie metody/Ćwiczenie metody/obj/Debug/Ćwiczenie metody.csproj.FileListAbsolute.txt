@@ -1,0 +1,7 @@
+C:\Skwark\4\Ćwiczenie metody\Ćwiczenie metody\bin\Debug\Ćwiczenie metody.exe.config
+C:\Skwark\4\Ćwiczenie metody\Ćwiczenie metody\bin\Debug\Ćwiczenie metody.exe
+C:\Skwark\4\Ćwiczenie metody\Ćwiczenie metody\bin\Debug\Ćwiczenie metody.pdb
+C:\Skwark\4\Ćwiczenie metody\Ćwiczenie metody\obj\Debug\Ćwiczenie metody.csprojAssemblyReference.cache
+C:\Skwark\4\Ćwiczenie metody\Ćwiczenie metody\obj\Debug\Ćwiczenie metody.csproj.CoreCompileInputs.cache
+C:\Skwark\4\Ćwiczenie metody\Ćwiczenie metody\obj\Debug\Ćwiczenie metody.exe
+C:\Skwark\4\Ćwiczenie metody\Ćwiczenie metody\obj\Debug\Ćwiczenie metody.pdb

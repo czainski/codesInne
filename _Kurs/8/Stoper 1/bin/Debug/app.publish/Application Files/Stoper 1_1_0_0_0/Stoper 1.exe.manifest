@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Stoper 1.exe" version="1.0.0.0" publicKeyToken="05632f2802ba80e2" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Stoper 1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Stoper 1.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opcje manifestu UAC
+          Jeśli chcesz zmienić poziom kontroli kont użytkowników w systemie Windows, zastąp węzeł
+          requestedExecutionLevel jednym z następujących.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Jeśli w celu zapewnienia wstecznej zgodności chcesz użyć wirtualizacji plików i rejestru,
+         usuń węzeł requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stoper 1.exe" size="5608">
+      <assemblyIdentity name="Stoper 1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3Fj57LcfgVtZsD9y2nlRmOeWvMcVsI2cJpKt/tL0LAY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Stoper 1.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-HRI2K4I\Stefek" issuerKeyHash="07adc1ce02554491f53abd5fb75c286084938e73" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dOxWHIaA6It+A6Vo9AHClPcH2VezVrm75ZK8X33Ts2w=</DigestValue></Reference></SignedInfo><SignatureValue>lpJTC5uwXJYl9rOIsaTtx0BLEX+kZaXxlX4/O+i/I8qz0D6kOMqyeKAMUROs4uO9U/EEZ/vGdwDX0W4zE7w+j0fWk6y1pPbr6ETfXmq7JdH59epglxnGybd7oDPgKSTT0YafHpIwLSIaQpJLeRoG0yRKgi11TVJLh9ZjHCfSdSU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>mVJjJutn0q/2fXRcMM5fjbgZtaFpOpgRDs53tuWBA0bX8iT76azV9Wdd5ic1Bf9BbKq43SI8Jz+ByYftDXIwQEWTBw5ijd3AOsfAL0XlmuyfNoMKs7M2f6HL7vxuU3p94nD8TUUZ8kB/49X+mJqB5QH2p7to66sZRplK3mEWZbk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6cb3d37d5fbc92e5bbb956b357d907f794c201f468a5037e8be880861c56ec74" Description="" Url=""><as:assemblyIdentity name="Stoper 1.exe" version="1.0.0.0" publicKeyToken="05632f2802ba80e2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-HRI2K4I\Stefek</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>AkcIS9ARcp3Rc3Nb5xTowaM9vTEacD2GsvurNzX9Yug=</DigestValue></Reference></SignedInfo><SignatureValue>HRoOV763GRcB5Ds44Aqcq5Oq8V+I5ry89wPr0t3dkFEGFUk2XdKSqxSmsxsLvuHWwmAX7zD427eGqOIQjJzGUEnTT2h8IEEWLaUdPfFpqfInVUhyPlmCbcb6c4Fcj32zCtvSplJh0OEi+13quDlHT9EdQV6yYE4Qa8zyQrVOh6A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mVJjJutn0q/2fXRcMM5fjbgZtaFpOpgRDs53tuWBA0bX8iT76azV9Wdd5ic1Bf9BbKq43SI8Jz+ByYftDXIwQEWTBw5ijd3AOsfAL0XlmuyfNoMKs7M2f6HL7vxuU3p94nD8TUUZ8kB/49X+mJqB5QH2p7to66sZRplK3mEWZbk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQeyFWBO7JgqxANrymY/LIIDANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAEgAUgBJADIASwA0AEkAXABTAHQAZQBmAGUAazAeFw0xOTA2MjcwODU1NTJaFw0yMDA2MjYxNDU1NTJaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ASABSAEkAMgBLADQASQBcAFMAdABlAGYAZQBrMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZUmMm62fSr/Z9dFwwzl+NuBm1oWk6mBEOzne25YEDRtfyJPvprNX1Z13mJzUF/0FsqrjdIjwnP4HJh+0NcjBARZMHDmKN3cA6x8AvReWa7J82gwqzszZ/ocvu/G5Ten3icPxNRRnyQH/j1f6YmoHlAfanu2jrqxlGmUreYRZluQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAGJ1OqUrQ5FOinaQ1yNTpugHzg+XT02K1brwd2O1kJGk1WwDzJ6ITQrz2DcG2R2QpsIyqPF1jEGAjguoYIMlJMYcqqFz4yeywhbBpIpKh5tu8GNWIZikVHwJ11VKsG9EiFp7JImRt985Iqw5D7RzAxlTHo+DvFQSQPWyQ/8DJNBP</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

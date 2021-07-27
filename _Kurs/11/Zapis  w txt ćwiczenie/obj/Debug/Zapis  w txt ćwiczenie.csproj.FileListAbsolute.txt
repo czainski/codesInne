@@ -1,0 +1,7 @@
+C:\Skwark\11\Zapis  w txt ćwiczenie\bin\Debug\Zapis  w txt ćwiczenie.exe.config
+C:\Skwark\11\Zapis  w txt ćwiczenie\bin\Debug\Zapis  w txt ćwiczenie.exe
+C:\Skwark\11\Zapis  w txt ćwiczenie\bin\Debug\Zapis  w txt ćwiczenie.pdb
+C:\Skwark\11\Zapis  w txt ćwiczenie\obj\Debug\Zapis  w txt ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\11\Zapis  w txt ćwiczenie\obj\Debug\Zapis  w txt ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\11\Zapis  w txt ćwiczenie\obj\Debug\Zapis  w txt ćwiczenie.exe
+C:\Skwark\11\Zapis  w txt ćwiczenie\obj\Debug\Zapis  w txt ćwiczenie.pdb

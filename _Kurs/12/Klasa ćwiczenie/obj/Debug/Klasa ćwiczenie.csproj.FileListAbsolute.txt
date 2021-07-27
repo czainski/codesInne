@@ -1,0 +1,7 @@
+C:\Skwark\12\Klasa ćwiczenie\bin\Debug\Klasa ćwiczenie.exe.config
+C:\Skwark\12\Klasa ćwiczenie\bin\Debug\Klasa ćwiczenie.exe
+C:\Skwark\12\Klasa ćwiczenie\bin\Debug\Klasa ćwiczenie.pdb
+C:\Skwark\12\Klasa ćwiczenie\obj\Debug\Klasa ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\12\Klasa ćwiczenie\obj\Debug\Klasa ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\12\Klasa ćwiczenie\obj\Debug\Klasa ćwiczenie.exe
+C:\Skwark\12\Klasa ćwiczenie\obj\Debug\Klasa ćwiczenie.pdb

@@ -1,0 +1,7 @@
+C:\Skwark\10\Edytor tekstu\bin\Debug\Edytor tekstu.exe.config
+C:\Skwark\10\Edytor tekstu\bin\Debug\Edytor tekstu.exe
+C:\Skwark\10\Edytor tekstu\bin\Debug\Edytor tekstu.pdb
+C:\Skwark\10\Edytor tekstu\obj\Debug\Edytor tekstu.csprojAssemblyReference.cache
+C:\Skwark\10\Edytor tekstu\obj\Debug\Edytor tekstu.csproj.CoreCompileInputs.cache
+C:\Skwark\10\Edytor tekstu\obj\Debug\Edytor tekstu.exe
+C:\Skwark\10\Edytor tekstu\obj\Debug\Edytor tekstu.pdb

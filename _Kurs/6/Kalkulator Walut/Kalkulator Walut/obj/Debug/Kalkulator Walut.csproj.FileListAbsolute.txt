@@ -1,0 +1,7 @@
+C:\Skwark\6\Kalkulator Walut\Kalkulator Walut\bin\Debug\Kalkulator Walut.exe.config
+C:\Skwark\6\Kalkulator Walut\Kalkulator Walut\bin\Debug\Kalkulator Walut.exe
+C:\Skwark\6\Kalkulator Walut\Kalkulator Walut\bin\Debug\Kalkulator Walut.pdb
+C:\Skwark\6\Kalkulator Walut\Kalkulator Walut\obj\Debug\Kalkulator Walut.csprojAssemblyReference.cache
+C:\Skwark\6\Kalkulator Walut\Kalkulator Walut\obj\Debug\Kalkulator Walut.csproj.CoreCompileInputs.cache
+C:\Skwark\6\Kalkulator Walut\Kalkulator Walut\obj\Debug\Kalkulator Walut.exe
+C:\Skwark\6\Kalkulator Walut\Kalkulator Walut\obj\Debug\Kalkulator Walut.pdb

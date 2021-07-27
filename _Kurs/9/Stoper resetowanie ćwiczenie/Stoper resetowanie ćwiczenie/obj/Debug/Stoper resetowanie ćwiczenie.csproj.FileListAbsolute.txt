@@ -1,0 +1,7 @@
+C:\Skwark\9\Stoper resetowanie ćwiczenie\Stoper resetowanie ćwiczenie\bin\Debug\Stoper resetowanie ćwiczenie.exe.config
+C:\Skwark\9\Stoper resetowanie ćwiczenie\Stoper resetowanie ćwiczenie\bin\Debug\Stoper resetowanie ćwiczenie.exe
+C:\Skwark\9\Stoper resetowanie ćwiczenie\Stoper resetowanie ćwiczenie\bin\Debug\Stoper resetowanie ćwiczenie.pdb
+C:\Skwark\9\Stoper resetowanie ćwiczenie\Stoper resetowanie ćwiczenie\obj\Debug\Stoper resetowanie ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\9\Stoper resetowanie ćwiczenie\Stoper resetowanie ćwiczenie\obj\Debug\Stoper resetowanie ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\9\Stoper resetowanie ćwiczenie\Stoper resetowanie ćwiczenie\obj\Debug\Stoper resetowanie ćwiczenie.exe
+C:\Skwark\9\Stoper resetowanie ćwiczenie\Stoper resetowanie ćwiczenie\obj\Debug\Stoper resetowanie ćwiczenie.pdb

@@ -1,0 +1,28 @@
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.csprojAssemblyReference.cache
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.csproj.CoreCompileInputs.cache
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.RazorAssemblyInfo.cache
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.RazorAssemblyInfo.cs
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.AssemblyInfoInputs.cache
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.AssemblyInfo.cs
+C:\_Studio\WebApi-BCFreeman\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.deps.json
+C:\_Studio\WebApi-BCFreeman\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.runtimeconfig.json
+C:\_Studio\WebApi-BCFreeman\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.runtimeconfig.dev.json
+C:\_Studio\WebApi-BCFreeman\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.dll
+C:\_Studio\WebApi-BCFreeman\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.pdb
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.RazorTargetAssemblyInfo.cache
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.dll
+C:\_Studio\WebApi-BCFreeman\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.pdb
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.deps.json
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.runtimeconfig.json
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.runtimeconfig.dev.json
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.dll
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\bin\Debug\netcoreapp2.2\WebApi-BCFreeman.pdb
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.csprojAssemblyReference.cache
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.csproj.CoreCompileInputs.cache
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.RazorAssemblyInfo.cache
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.RazorAssemblyInfo.cs
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.AssemblyInfoInputs.cache
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.AssemblyInfo.cs
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.RazorTargetAssemblyInfo.cache
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.dll
+C:\WarsztatLaptopII\Code\WebApi\_A\WebApi-BCFreeman   - many to many szkic\obj\Debug\netcoreapp2.2\WebApi-BCFreeman.pdb

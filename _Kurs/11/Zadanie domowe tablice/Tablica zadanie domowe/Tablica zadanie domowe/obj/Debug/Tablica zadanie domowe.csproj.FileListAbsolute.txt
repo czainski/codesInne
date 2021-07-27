@@ -1,0 +1,14 @@
+D:\Programowanie\Zadania do domu\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\bin\Debug\Tablica zadanie domowe.exe.config
+D:\Programowanie\Zadania do domu\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\bin\Debug\Tablica zadanie domowe.exe
+D:\Programowanie\Zadania do domu\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\bin\Debug\Tablica zadanie domowe.pdb
+D:\Programowanie\Zadania do domu\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\obj\Debug\Tablica zadanie domowe.csprojAssemblyReference.cache
+D:\Programowanie\Zadania do domu\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\obj\Debug\Tablica zadanie domowe.csproj.CoreCompileInputs.cache
+D:\Programowanie\Zadania do domu\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\obj\Debug\Tablica zadanie domowe.exe
+D:\Programowanie\Zadania do domu\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\obj\Debug\Tablica zadanie domowe.pdb
+C:\Skwark\11\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\bin\Debug\Tablica zadanie domowe.exe.config
+C:\Skwark\11\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\bin\Debug\Tablica zadanie domowe.exe
+C:\Skwark\11\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\bin\Debug\Tablica zadanie domowe.pdb
+C:\Skwark\11\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\obj\Debug\Tablica zadanie domowe.csprojAssemblyReference.cache
+C:\Skwark\11\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\obj\Debug\Tablica zadanie domowe.csproj.CoreCompileInputs.cache
+C:\Skwark\11\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\obj\Debug\Tablica zadanie domowe.exe
+C:\Skwark\11\Zadanie domowe tablice\Tablica zadanie domowe\Tablica zadanie domowe\obj\Debug\Tablica zadanie domowe.pdb

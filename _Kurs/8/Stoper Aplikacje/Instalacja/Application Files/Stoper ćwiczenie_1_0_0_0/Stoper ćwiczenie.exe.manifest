@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Stoper ćwiczenie.exe" version="1.0.0.0" publicKeyToken="9a4e25c17ec256d2" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Stoper ćwiczenie" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Stoper ćwiczenie.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opcje manifestu UAC
+          Jeśli chcesz zmienić poziom kontroli kont użytkowników w systemie Windows, zastąp węzeł
+          requestedExecutionLevel jednym z następujących.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Jeśli w celu zapewnienia wstecznej zgodności chcesz użyć wirtualizacji plików i rejestru,
+         usuń węzeł requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stoper ćwiczenie.exe" size="6120">
+      <assemblyIdentity name="Stoper ćwiczenie" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>1XCwHUvsn62f2HTQN3CjiiIU8rAAzR8MfK2nFoPWD0A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Stoper ćwiczenie.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-HRI2K4I\Stefek" issuerKeyHash="a47b98eb76327b8edcaa817559faec7f22f48376" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Ov3/ieW+dMof+DWG9jAqxBPcpLDlLelzFTztIPQJccs=</DigestValue></Reference></SignedInfo><SignatureValue>iG+udQDGIdGSN29DZkubT+vXXWSeJmWKcWivNYC81uk4WShUqEJ6iT0YnQNqB7oUlmuJqMk/nH3QhkRSELFRbUE0h25IQM3cxiysZgISFwNGfQPumJ+0irfq3QYjWTmzOFqMNz+98F8OXe3nM1WwRmOIQmr8Z/9kUsE2ddhOWqU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oz9GTWqlTLR8zHW9Y8NL+buEzGW9RG6tuRyaV0Nv1mEH28tEKSIaphFo2QoT/a9RCBVXcJkZRXqdBTFURJ+3RoxVnHyEM5uI6rk2oL7iu+0WA9qPG4itw5JkptUicuijbhNXLg362yG1RIIwSFISZDqb9I5YaJqXZMM2p8azun0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="cb7109f420ed3c1573e92de5b0a4dc13c42a30f68635f81fca74bee589fffd3a" Description="" Url=""><as:assemblyIdentity name="Stoper ćwiczenie.exe" version="1.0.0.0" publicKeyToken="9a4e25c17ec256d2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-HRI2K4I\Stefek</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rR3zRcuASza5lF+2fVXG6Zs/1qtrd6oWtC06ASnt72s=</DigestValue></Reference></SignedInfo><SignatureValue>ITByyhr0OjheSf/0Nto8UOMSA0agwP9izUsGHFVKE9lE20F5U2tbGHNlCq5P3jYOjfGhcTHHUOp9f1OvGkLHrjSnBM37dZW4HCvWfMKRLiTnB4rs3O74JwRkqNJgOyYjZjc9DCmlK/eqJOMogwo2bpajVpA5xZI8CV0NDO+3GiM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oz9GTWqlTLR8zHW9Y8NL+buEzGW9RG6tuRyaV0Nv1mEH28tEKSIaphFo2QoT/a9RCBVXcJkZRXqdBTFURJ+3RoxVnHyEM5uI6rk2oL7iu+0WA9qPG4itw5JkptUicuijbhNXLg362yG1RIIwSFISZDqb9I5YaJqXZMM2p8azun0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQNXWDAbzll6tO90XGFNEAIDANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAEgAUgBJADIASwA0AEkAXABTAHQAZQBmAGUAazAeFw0xOTA2MjcwOTAzMjRaFw0yMDA2MjYxNTAzMjRaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ASABSAEkAMgBLADQASQBcAFMAdABlAGYAZQBrMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCjP0ZNaqVMtHzMdb1jw0v5u4TMZb1Ebq25HJpXQ2/WYQfby0QpIhqmEWjZChP9r1EIFVdwmRlFep0FMVREn7dGjFWcfIQzm4jquTagvuK77RYD2o8biK3DkmSm1SJy6KNuE1cuDfrbIbVEgjBIUhJkOpv0jlhompdkwzanxrO6fQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBABW+I0Njjxz2yGNQtv4td75npqy+7I/sXFv84R8EKO0JpBfqEQRCoYinxJKuJ0fSUOPS80XS8f2pU16h0LIbLYyiuzU7hIBH694ivI66r6OZ8L9N+SmZJKlSg1OFq8NwF5KXTJoE+bU9fd9w44+qSmB78ZS/59RBVH4lbhO8mOdJ</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

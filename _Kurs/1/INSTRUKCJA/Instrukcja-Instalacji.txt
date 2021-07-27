@@ -1,0 +1,34 @@
+1. Uruchomiæ link:
+https://visualstudio.microsoft.com/pl/downloads/
+
+2. Wybraæ opcjê:
+"Pobierz bezp³atnie"
+
+3. Pojawi siê nowa strona z opcj¹ :
+"Uruchom"
+
+4. PO uruchomienie pojawi siê okno :
+Visual  Studio Installer
+z opcj¹ "Kontynuuj".
+
+Uwaga: czêsto to okno pojawia siê najpierw jako ikonka na pasku na dolnym pasku.
+ Je¿eli tak bêdzie, to trzeba klikn¹æ na ikonkê , aby siê pojawi³a na monitorze
+i kontynuowaæ.
+
+5. Pojawi siê strona z wieloma opcjami.
+Nale¿y wybraæ opcjê piat¹ od góry o nazwie:
+"Programowanie aplikacji klasycznych dla platforemy .NET"
+
+6. Po zaznaczeniu do istalacji nale¿y wybrac opcjê
+"Zaonstaluj" znajduj¹c¹ siê na tej stronie po prawej stronie u do³u.
+
+7. Visual Studio zacznie siê instalowaæ ,  
+a po instalacji uruchomi siê  automatycznie.
+Je¿eli Visual Studio poprosi Pana o za³o¿eniu konta w Micfrosofcie,
+to konto prosze sobie za³o¿yæ. Ono siê przydaje przy ró¿nych okazjach. 
+
+8. Nale¿y zamkn¹æ Visual Studio i przejœæ do naszych rozpakowanych projektrów
+ i jeden  z nich uruchomiæ, poprzez klikniêcie np. na Skwark1.sln
+
+
+Mi³ej nauki i zabawy :)

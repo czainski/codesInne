@@ -1,0 +1,5 @@
+1. Proszê uzupe³niæ klasê Zawodnik o pole : iloœæ zdobytych punktów w sezonie.
+2. Wpisaæ w main() dla ka¿dego zawodnika iloœæ punktów zdobytych. 
+3. Nastêpnie dodaæ do klasy Zawodnik metodê, która w main() wyœwietli iloœæ punktów 
+dla ka¿dego zawodnika.
+   

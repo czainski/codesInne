@@ -1,0 +1,7 @@
+C:\Skwark\11\Odczytywanie tesktu ćwiczenie\bin\Debug\Odczytywanie tesktu ćwiczenie.exe.config
+C:\Skwark\11\Odczytywanie tesktu ćwiczenie\bin\Debug\Odczytywanie tesktu ćwiczenie.exe
+C:\Skwark\11\Odczytywanie tesktu ćwiczenie\bin\Debug\Odczytywanie tesktu ćwiczenie.pdb
+C:\Skwark\11\Odczytywanie tesktu ćwiczenie\obj\Debug\Odczytywanie tesktu ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\11\Odczytywanie tesktu ćwiczenie\obj\Debug\Odczytywanie tesktu ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\11\Odczytywanie tesktu ćwiczenie\obj\Debug\Odczytywanie tesktu ćwiczenie.exe
+C:\Skwark\11\Odczytywanie tesktu ćwiczenie\obj\Debug\Odczytywanie tesktu ćwiczenie.pdb

@@ -1,0 +1,7 @@
+C:\Skwark\6\Kalkulator walut 3\Kalkulator walut 3\bin\Debug\Kalkulator walut 3.exe.config
+C:\Skwark\6\Kalkulator walut 3\Kalkulator walut 3\bin\Debug\Kalkulator walut 3.exe
+C:\Skwark\6\Kalkulator walut 3\Kalkulator walut 3\bin\Debug\Kalkulator walut 3.pdb
+C:\Skwark\6\Kalkulator walut 3\Kalkulator walut 3\obj\Debug\Kalkulator walut 3.csprojAssemblyReference.cache
+C:\Skwark\6\Kalkulator walut 3\Kalkulator walut 3\obj\Debug\Kalkulator walut 3.csproj.CoreCompileInputs.cache
+C:\Skwark\6\Kalkulator walut 3\Kalkulator walut 3\obj\Debug\Kalkulator walut 3.exe
+C:\Skwark\6\Kalkulator walut 3\Kalkulator walut 3\obj\Debug\Kalkulator walut 3.pdb

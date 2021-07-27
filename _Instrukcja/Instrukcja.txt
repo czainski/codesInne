@@ -1,0 +1,11 @@
+﻿Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+
+DbContext
+Model
+
+OnConfiguring
+
+Windows Authorisation
+ add-migration BCmigration
+ update-database –verbose

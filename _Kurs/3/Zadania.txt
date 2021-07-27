@@ -1,0 +1,22 @@
+Zadanie 1:   
+    Nale¿y zbudowaæ metodê, która jako parametr pobiera liczbê ca³kowit¹,
+natêpnie do tej liczny dodaje 100 i wyœwietla wynik.
+    Tak zbudowan¹ metodê nale¿y uruchomiæ (czyli przetestowaæ) 
+ w main()  dla liczby   1  oraz liczb 100 i 200.
+
+Zadanie 2
+    Wykorzystuj¹c instrukcjê for nale¿y wyœwietliæ liczby od -10 do 30
+dodaj¹c do ka¿dej liczby 2,30. Procedurê nale¿y uruchomiæ w main() 
+
+Zadanie 3
+	Procedurê opracowan¹ w zadaniu 2 nale¿y zamieniæ w metodê i uruchomiæ
+w main().    			
+
+Zadanie 4
+    Wykorzystuj¹c instrukcjê while  nale¿y wyœwietliæ liczby   od -2.77 do 12.03
+dodaj¹c do ka¿dej liczby 1,67 . Procedurê nale¿y uruchomiæ w main() 
+
+Zadanie 5
+	Procedurê opracowan¹ w zadaniu 4 nale¿y zamieniæ w metodê i uruchomiæ
+w main().    			
+

@@ -1,0 +1,14 @@
+C:\CQRS-simple\CQRS1\CQRS1\obj\Debug\CQRS1.csprojAssemblyReference.cache
+C:\CQRS-simple\CQRS1\CQRS1\obj\Debug\CQRS1.csproj.CoreCompileInputs.cache
+C:\CQRS-simple\CQRS1\CQRS1\bin\Debug\CQRS1.exe.config
+C:\CQRS-simple\CQRS1\CQRS1\bin\Debug\CQRS1.exe
+C:\CQRS-simple\CQRS1\CQRS1\bin\Debug\CQRS1.pdb
+C:\CQRS-simple\CQRS1\CQRS1\obj\Debug\CQRS1.exe
+C:\CQRS-simple\CQRS1\CQRS1\obj\Debug\CQRS1.pdb
+C:\_CQRS-snipet\QuerySide\CQRS1\bin\Debug\CQRS1.exe.config
+C:\_CQRS-snipet\QuerySide\CQRS1\bin\Debug\CQRS1.exe
+C:\_CQRS-snipet\QuerySide\CQRS1\bin\Debug\CQRS1.pdb
+C:\_CQRS-snipet\QuerySide\CQRS1\obj\Debug\CQRS1.csprojAssemblyReference.cache
+C:\_CQRS-snipet\QuerySide\CQRS1\obj\Debug\CQRS1.csproj.CoreCompileInputs.cache
+C:\_CQRS-snipet\QuerySide\CQRS1\obj\Debug\CQRS1.exe
+C:\_CQRS-snipet\QuerySide\CQRS1\obj\Debug\CQRS1.pdb

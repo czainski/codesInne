@@ -1,0 +1,11 @@
+C:\Skwark\8\Stoper ćwiczenie\bin\Debug\Stoper ćwiczenie.exe.config
+C:\Skwark\8\Stoper ćwiczenie\bin\Debug\Stoper ćwiczenie.exe
+C:\Skwark\8\Stoper ćwiczenie\bin\Debug\Stoper ćwiczenie.pdb
+C:\Skwark\8\Stoper ćwiczenie\obj\Debug\Stoper ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\8\Stoper ćwiczenie\obj\Debug\Stoper ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\8\Stoper ćwiczenie\obj\Debug\Stoper ćwiczenie.exe
+C:\Skwark\8\Stoper ćwiczenie\obj\Debug\Stoper ćwiczenie.pdb
+C:\Skwark\8\Stoper ćwiczenie\bin\Debug\Stoper ćwiczenie.exe.manifest
+C:\Skwark\8\Stoper ćwiczenie\bin\Debug\Stoper ćwiczenie.application
+C:\Skwark\8\Stoper ćwiczenie\obj\Debug\Stoper ćwiczenie.exe.manifest
+C:\Skwark\8\Stoper ćwiczenie\obj\Debug\Stoper ćwiczenie.application

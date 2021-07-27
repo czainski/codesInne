@@ -1,0 +1,7 @@
+C:\Skwark\Skwark1\Skwark1\bin\Debug\Skwark1.exe.config
+C:\Skwark\Skwark1\Skwark1\bin\Debug\Skwark1.exe
+C:\Skwark\Skwark1\Skwark1\bin\Debug\Skwark1.pdb
+C:\Skwark\Skwark1\Skwark1\obj\Debug\Skwark1.csprojAssemblyReference.cache
+C:\Skwark\Skwark1\Skwark1\obj\Debug\Skwark1.csproj.CoreCompileInputs.cache
+C:\Skwark\Skwark1\Skwark1\obj\Debug\Skwark1.exe
+C:\Skwark\Skwark1\Skwark1\obj\Debug\Skwark1.pdb

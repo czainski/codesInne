@@ -1,0 +1,7 @@
+C:\Skwark\9\Stoper\Stoper\bin\Debug\Stoper.exe.config
+C:\Skwark\9\Stoper\Stoper\bin\Debug\Stoper.exe
+C:\Skwark\9\Stoper\Stoper\bin\Debug\Stoper.pdb
+C:\Skwark\9\Stoper\Stoper\obj\Debug\Stoper.csprojAssemblyReference.cache
+C:\Skwark\9\Stoper\Stoper\obj\Debug\Stoper.csproj.CoreCompileInputs.cache
+C:\Skwark\9\Stoper\Stoper\obj\Debug\Stoper.exe
+C:\Skwark\9\Stoper\Stoper\obj\Debug\Stoper.pdb

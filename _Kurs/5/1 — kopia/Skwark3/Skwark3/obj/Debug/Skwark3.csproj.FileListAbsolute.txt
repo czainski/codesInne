@@ -1,0 +1,14 @@
+C:\Skwark\Skwark3\Skwark3\bin\Debug\Skwark3.exe.config
+C:\Skwark\Skwark3\Skwark3\bin\Debug\Skwark3.exe
+C:\Skwark\Skwark3\Skwark3\bin\Debug\Skwark3.pdb
+C:\Skwark\Skwark3\Skwark3\obj\Debug\Skwark3.csprojAssemblyReference.cache
+C:\Skwark\Skwark3\Skwark3\obj\Debug\Skwark3.csproj.CoreCompileInputs.cache
+C:\Skwark\Skwark3\Skwark3\obj\Debug\Skwark3.exe
+C:\Skwark\Skwark3\Skwark3\obj\Debug\Skwark3.pdb
+C:\Skwark\5\1 — kopia\Skwark3\Skwark3\bin\Debug\Skwark3.exe.config
+C:\Skwark\5\1 — kopia\Skwark3\Skwark3\bin\Debug\Skwark3.exe
+C:\Skwark\5\1 — kopia\Skwark3\Skwark3\bin\Debug\Skwark3.pdb
+C:\Skwark\5\1 — kopia\Skwark3\Skwark3\obj\Debug\Skwark3.csprojAssemblyReference.cache
+C:\Skwark\5\1 — kopia\Skwark3\Skwark3\obj\Debug\Skwark3.csproj.CoreCompileInputs.cache
+C:\Skwark\5\1 — kopia\Skwark3\Skwark3\obj\Debug\Skwark3.exe
+C:\Skwark\5\1 — kopia\Skwark3\Skwark3\obj\Debug\Skwark3.pdb

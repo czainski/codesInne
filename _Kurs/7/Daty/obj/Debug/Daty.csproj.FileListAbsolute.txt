@@ -1,0 +1,7 @@
+C:\Skwark\7\Daty\bin\Debug\Daty.exe.config
+C:\Skwark\7\Daty\bin\Debug\Daty.exe
+C:\Skwark\7\Daty\bin\Debug\Daty.pdb
+C:\Skwark\7\Daty\obj\Debug\Daty.csprojAssemblyReference.cache
+C:\Skwark\7\Daty\obj\Debug\Daty.csproj.CoreCompileInputs.cache
+C:\Skwark\7\Daty\obj\Debug\Daty.exe
+C:\Skwark\7\Daty\obj\Debug\Daty.pdb

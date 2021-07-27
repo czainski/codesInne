@@ -1,0 +1,13 @@
+reseller account:
+User - bc
+PW: 3Jt2rD_KZrvv
+Managamaent server at: https://bd59.backup-data.net:8080/login/
+
+
+
+FTP to 
+bczainski1.zolty.eu
+User - 	
+bcbc1
+PW: 
+hrS5Kn9ynW@W

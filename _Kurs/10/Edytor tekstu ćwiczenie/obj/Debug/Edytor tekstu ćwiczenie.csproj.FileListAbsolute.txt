@@ -1,0 +1,7 @@
+C:\Skwark\10\Edytor tekstu ćwiczenie\bin\Debug\Edytor tekstu ćwiczenie.exe.config
+C:\Skwark\10\Edytor tekstu ćwiczenie\bin\Debug\Edytor tekstu ćwiczenie.exe
+C:\Skwark\10\Edytor tekstu ćwiczenie\bin\Debug\Edytor tekstu ćwiczenie.pdb
+C:\Skwark\10\Edytor tekstu ćwiczenie\obj\Debug\Edytor tekstu ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\10\Edytor tekstu ćwiczenie\obj\Debug\Edytor tekstu ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\10\Edytor tekstu ćwiczenie\obj\Debug\Edytor tekstu ćwiczenie.exe
+C:\Skwark\10\Edytor tekstu ćwiczenie\obj\Debug\Edytor tekstu ćwiczenie.pdb

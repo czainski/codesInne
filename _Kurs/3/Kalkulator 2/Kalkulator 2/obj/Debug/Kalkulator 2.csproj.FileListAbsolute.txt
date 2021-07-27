@@ -1,0 +1,7 @@
+C:\Skwark\3\Kalkulator 2\Kalkulator 2\bin\Debug\Kalkulator 2.exe.config
+C:\Skwark\3\Kalkulator 2\Kalkulator 2\bin\Debug\Kalkulator 2.exe
+C:\Skwark\3\Kalkulator 2\Kalkulator 2\bin\Debug\Kalkulator 2.pdb
+C:\Skwark\3\Kalkulator 2\Kalkulator 2\obj\Debug\Kalkulator 2.csprojAssemblyReference.cache
+C:\Skwark\3\Kalkulator 2\Kalkulator 2\obj\Debug\Kalkulator 2.csproj.CoreCompileInputs.cache
+C:\Skwark\3\Kalkulator 2\Kalkulator 2\obj\Debug\Kalkulator 2.exe
+C:\Skwark\3\Kalkulator 2\Kalkulator 2\obj\Debug\Kalkulator 2.pdb

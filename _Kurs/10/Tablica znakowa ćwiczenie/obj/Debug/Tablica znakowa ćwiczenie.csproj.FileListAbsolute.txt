@@ -1,0 +1,7 @@
+C:\Skwark\10\Tablica znakowa ćwiczenie\bin\Debug\Tablica znakowa ćwiczenie.exe.config
+C:\Skwark\10\Tablica znakowa ćwiczenie\bin\Debug\Tablica znakowa ćwiczenie.exe
+C:\Skwark\10\Tablica znakowa ćwiczenie\bin\Debug\Tablica znakowa ćwiczenie.pdb
+C:\Skwark\10\Tablica znakowa ćwiczenie\obj\Debug\Tablica znakowa ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\10\Tablica znakowa ćwiczenie\obj\Debug\Tablica znakowa ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\10\Tablica znakowa ćwiczenie\obj\Debug\Tablica znakowa ćwiczenie.exe
+C:\Skwark\10\Tablica znakowa ćwiczenie\obj\Debug\Tablica znakowa ćwiczenie.pdb

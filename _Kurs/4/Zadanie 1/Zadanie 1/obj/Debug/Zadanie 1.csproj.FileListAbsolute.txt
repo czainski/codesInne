@@ -1,0 +1,7 @@
+C:\Skwark\4\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe.config
+C:\Skwark\4\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe
+C:\Skwark\4\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.pdb
+C:\Skwark\4\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csprojAssemblyReference.cache
+C:\Skwark\4\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csproj.CoreCompileInputs.cache
+C:\Skwark\4\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.exe
+C:\Skwark\4\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.pdb

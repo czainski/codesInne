@@ -1,0 +1,29 @@
+﻿@model MVCrelations.Models.Country
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+OK
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+ @Model.Name
+ <table class="table">
+    <thead>
+        <tr>
+            <th>
+               
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+	@foreach (var city in Model.Citys) 
+	{
+        <tr>
+		<td> Miasto
+                @Html.DisplayFor(modelItem => city.Name)
+        </td>
+		</tr>
+	}
+	</tbody>
+</table>

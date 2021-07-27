@@ -1,0 +1,4 @@
+1. Proszê na dysku utworzyæ katalog o nazwie: Zapisy 
+2. Proszê utworzyæ tablicê 15 elementow¹
+3. Proszê w pi¹tym elemencie tablicy zapisaæ: "To jest element pi¹ty"
+4. A w elemencie ostatnim tablicy napisaæ: "Koniec tablicy"   

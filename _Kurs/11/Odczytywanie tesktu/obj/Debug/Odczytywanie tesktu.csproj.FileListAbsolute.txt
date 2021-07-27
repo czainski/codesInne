@@ -1,0 +1,7 @@
+C:\Skwark\11\Odczytywanie tesktu\bin\Debug\Odczytywanie tesktu.exe.config
+C:\Skwark\11\Odczytywanie tesktu\bin\Debug\Odczytywanie tesktu.exe
+C:\Skwark\11\Odczytywanie tesktu\bin\Debug\Odczytywanie tesktu.pdb
+C:\Skwark\11\Odczytywanie tesktu\obj\Debug\Odczytywanie tesktu.csprojAssemblyReference.cache
+C:\Skwark\11\Odczytywanie tesktu\obj\Debug\Odczytywanie tesktu.csproj.CoreCompileInputs.cache
+C:\Skwark\11\Odczytywanie tesktu\obj\Debug\Odczytywanie tesktu.exe
+C:\Skwark\11\Odczytywanie tesktu\obj\Debug\Odczytywanie tesktu.pdb

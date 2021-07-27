@@ -1,0 +1,28 @@
+C:\_Studio\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\_Studio\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\_Studio\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\_Studio\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\_Studio\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\_Studio\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
+C:\_Studio\TodoApi-tablica i delete\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\_Studio\TodoApi-tablica i delete\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\_Studio\TodoApi-tablica i delete\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\_Studio\TodoApi-tablica i delete\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\_Studio\TodoApi-tablica i delete\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\_Studio\TodoApi-tablica i delete\obj\Debug\netcoreapp2.2\TodoApi.pdb

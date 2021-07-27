@@ -1,0 +1,10 @@
+uwaga: blokowaæ œcie¿ki przeniesione z innego systemu
+1. Model i relacje.
+2. Context 
+4. Migration
+=====================
+seed
+1. Startup and DI for Db.
+2. Uzupe³niæ Seed 
+3. Dodaæ Seed do serwisu
+4. Uruchomiæ aplikacji, aby seed siê wykona³.

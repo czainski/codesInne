@@ -1,0 +1,7 @@
+C:\Skwark\2\Kalkullator\Kalkullator\obj\Debug\Kalkullator.csprojAssemblyReference.cache
+C:\Skwark\2\Kalkullator\Kalkullator\obj\Debug\Kalkullator.csproj.CoreCompileInputs.cache
+C:\Skwark\2\Kalkullator\Kalkullator\bin\Debug\Kalkullator.exe.config
+C:\Skwark\2\Kalkullator\Kalkullator\bin\Debug\Kalkullator.exe
+C:\Skwark\2\Kalkullator\Kalkullator\bin\Debug\Kalkullator.pdb
+C:\Skwark\2\Kalkullator\Kalkullator\obj\Debug\Kalkullator.exe
+C:\Skwark\2\Kalkullator\Kalkullator\obj\Debug\Kalkullator.pdb

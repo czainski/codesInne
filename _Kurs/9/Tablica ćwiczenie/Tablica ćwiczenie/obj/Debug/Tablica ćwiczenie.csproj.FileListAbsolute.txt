@@ -1,0 +1,7 @@
+C:\Skwark\9\Tablica ćwiczenie\Tablica ćwiczenie\obj\Debug\Tablica ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\9\Tablica ćwiczenie\Tablica ćwiczenie\obj\Debug\Tablica ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\9\Tablica ćwiczenie\Tablica ćwiczenie\bin\Debug\Tablica ćwiczenie.exe.config
+C:\Skwark\9\Tablica ćwiczenie\Tablica ćwiczenie\bin\Debug\Tablica ćwiczenie.exe
+C:\Skwark\9\Tablica ćwiczenie\Tablica ćwiczenie\bin\Debug\Tablica ćwiczenie.pdb
+C:\Skwark\9\Tablica ćwiczenie\Tablica ćwiczenie\obj\Debug\Tablica ćwiczenie.exe
+C:\Skwark\9\Tablica ćwiczenie\Tablica ćwiczenie\obj\Debug\Tablica ćwiczenie.pdb

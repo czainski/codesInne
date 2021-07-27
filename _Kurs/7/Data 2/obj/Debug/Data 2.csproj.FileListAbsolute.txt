@@ -1,0 +1,7 @@
+C:\Skwark\7\Data 2\bin\Debug\Data 2.exe.config
+C:\Skwark\7\Data 2\bin\Debug\Data 2.exe
+C:\Skwark\7\Data 2\bin\Debug\Data 2.pdb
+C:\Skwark\7\Data 2\obj\Debug\Data 2.csprojAssemblyReference.cache
+C:\Skwark\7\Data 2\obj\Debug\Data 2.csproj.CoreCompileInputs.cache
+C:\Skwark\7\Data 2\obj\Debug\Data 2.exe
+C:\Skwark\7\Data 2\obj\Debug\Data 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ja\Desktop\Zadanie domowe\Zadanie domowe tablica\Zadanie domowe tablica\bin\Debug\Zadanie domowe tablica.exe.config
+C:\Users\Ja\Desktop\Zadanie domowe\Zadanie domowe tablica\Zadanie domowe tablica\bin\Debug\Zadanie domowe tablica.exe
+C:\Users\Ja\Desktop\Zadanie domowe\Zadanie domowe tablica\Zadanie domowe tablica\bin\Debug\Zadanie domowe tablica.pdb
+C:\Users\Ja\Desktop\Zadanie domowe\Zadanie domowe tablica\Zadanie domowe tablica\obj\Debug\Zadanie domowe tablica.csprojAssemblyReference.cache
+C:\Users\Ja\Desktop\Zadanie domowe\Zadanie domowe tablica\Zadanie domowe tablica\obj\Debug\Zadanie domowe tablica.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\Zadanie domowe\Zadanie domowe tablica\Zadanie domowe tablica\obj\Debug\Zadanie domowe tablica.exe
+C:\Users\Ja\Desktop\Zadanie domowe\Zadanie domowe tablica\Zadanie domowe tablica\obj\Debug\Zadanie domowe tablica.pdb

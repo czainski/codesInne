@@ -1,0 +1,7 @@
+C:\Skwark\4\Jak robić metode\Jak robić metode\bin\Debug\Jak robić metode.exe.config
+C:\Skwark\4\Jak robić metode\Jak robić metode\bin\Debug\Jak robić metode.exe
+C:\Skwark\4\Jak robić metode\Jak robić metode\bin\Debug\Jak robić metode.pdb
+C:\Skwark\4\Jak robić metode\Jak robić metode\obj\Debug\Jak robić metode.csprojAssemblyReference.cache
+C:\Skwark\4\Jak robić metode\Jak robić metode\obj\Debug\Jak robić metode.csproj.CoreCompileInputs.cache
+C:\Skwark\4\Jak robić metode\Jak robić metode\obj\Debug\Jak robić metode.exe
+C:\Skwark\4\Jak robić metode\Jak robić metode\obj\Debug\Jak robić metode.pdb

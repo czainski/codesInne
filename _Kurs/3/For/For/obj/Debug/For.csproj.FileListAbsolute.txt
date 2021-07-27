@@ -1,0 +1,7 @@
+C:\Skwark\3\For\For\bin\Debug\For.exe.config
+C:\Skwark\3\For\For\bin\Debug\For.exe
+C:\Skwark\3\For\For\bin\Debug\For.pdb
+C:\Skwark\3\For\For\obj\Debug\For.csprojAssemblyReference.cache
+C:\Skwark\3\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Skwark\3\For\For\obj\Debug\For.exe
+C:\Skwark\3\For\For\obj\Debug\For.pdb

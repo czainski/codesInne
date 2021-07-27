@@ -1,0 +1,14 @@
+C:\Skwark\Skwark2\Skwark2\bin\Debug\Skwark2.exe.config
+C:\Skwark\Skwark2\Skwark2\bin\Debug\Skwark2.exe
+C:\Skwark\Skwark2\Skwark2\bin\Debug\Skwark2.pdb
+C:\Skwark\Skwark2\Skwark2\obj\Debug\Skwark2.csprojAssemblyReference.cache
+C:\Skwark\Skwark2\Skwark2\obj\Debug\Skwark2.csproj.CoreCompileInputs.cache
+C:\Skwark\Skwark2\Skwark2\obj\Debug\Skwark2.exe
+C:\Skwark\Skwark2\Skwark2\obj\Debug\Skwark2.pdb
+C:\Skwark\5\1\Skwark2\Skwark2\bin\Debug\Skwark2.exe.config
+C:\Skwark\5\1\Skwark2\Skwark2\bin\Debug\Skwark2.exe
+C:\Skwark\5\1\Skwark2\Skwark2\bin\Debug\Skwark2.pdb
+C:\Skwark\5\1\Skwark2\Skwark2\obj\Debug\Skwark2.csprojAssemblyReference.cache
+C:\Skwark\5\1\Skwark2\Skwark2\obj\Debug\Skwark2.csproj.CoreCompileInputs.cache
+C:\Skwark\5\1\Skwark2\Skwark2\obj\Debug\Skwark2.exe
+C:\Skwark\5\1\Skwark2\Skwark2\obj\Debug\Skwark2.pdb

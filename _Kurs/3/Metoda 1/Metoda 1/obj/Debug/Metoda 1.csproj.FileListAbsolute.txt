@@ -1,0 +1,7 @@
+C:\Skwark\3\Metoda 1\Metoda 1\bin\Debug\Metoda 1.exe.config
+C:\Skwark\3\Metoda 1\Metoda 1\bin\Debug\Metoda 1.exe
+C:\Skwark\3\Metoda 1\Metoda 1\bin\Debug\Metoda 1.pdb
+C:\Skwark\3\Metoda 1\Metoda 1\obj\Debug\Metoda 1.csprojAssemblyReference.cache
+C:\Skwark\3\Metoda 1\Metoda 1\obj\Debug\Metoda 1.csproj.CoreCompileInputs.cache
+C:\Skwark\3\Metoda 1\Metoda 1\obj\Debug\Metoda 1.exe
+C:\Skwark\3\Metoda 1\Metoda 1\obj\Debug\Metoda 1.pdb

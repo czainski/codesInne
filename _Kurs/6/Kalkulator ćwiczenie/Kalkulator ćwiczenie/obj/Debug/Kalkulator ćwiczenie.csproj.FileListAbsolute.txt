@@ -1,0 +1,7 @@
+C:\Skwark\6\Kalkulator ćwiczenie\Kalkulator ćwiczenie\bin\Debug\Kalkulator ćwiczenie.exe.config
+C:\Skwark\6\Kalkulator ćwiczenie\Kalkulator ćwiczenie\bin\Debug\Kalkulator ćwiczenie.exe
+C:\Skwark\6\Kalkulator ćwiczenie\Kalkulator ćwiczenie\bin\Debug\Kalkulator ćwiczenie.pdb
+C:\Skwark\6\Kalkulator ćwiczenie\Kalkulator ćwiczenie\obj\Debug\Kalkulator ćwiczenie.csprojAssemblyReference.cache
+C:\Skwark\6\Kalkulator ćwiczenie\Kalkulator ćwiczenie\obj\Debug\Kalkulator ćwiczenie.csproj.CoreCompileInputs.cache
+C:\Skwark\6\Kalkulator ćwiczenie\Kalkulator ćwiczenie\obj\Debug\Kalkulator ćwiczenie.exe
+C:\Skwark\6\Kalkulator ćwiczenie\Kalkulator ćwiczenie\obj\Debug\Kalkulator ćwiczenie.pdb
